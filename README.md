@@ -2,7 +2,7 @@
 
 Mechanical Engineering student at Rose-Hulman Institute of Technology.
 
-Live site: https://gourikp.github.io/
+Live site: https://gourikp30.github.io/
 
 ## Run locally
 
